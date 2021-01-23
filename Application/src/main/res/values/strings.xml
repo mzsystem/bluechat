@@ -17,25 +17,25 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!--  BluetoothChat -->
-    <string name="send">Send</string>
-    <string name="not_connected">You are not connected to a device</string>
-    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
-    <string name="title_connecting">connecting...</string>
-    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
-    <string name="title_not_connected">not connected</string>
+    <string name="send">ارسال</string>
+    <string name="not_connected">شما به بلوتوثی متصل نشده اید</string>
+    <string name="bt_not_enabled_leaving">بلوتوث فعال نشده خارج شدن از چت...</string>
+    <string name="title_connecting">در حال اتصال...</string>
+    <string name="title_connected_to">متصل شده به <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">اتصال برقرا نشده</string>
 
     <!--  DeviceListActivity -->
-    <string name="scanning">scanning for devices...</string>
-    <string name="select_device">select a device to connect</string>
-    <string name="none_paired">No devices have been paired</string>
-    <string name="none_found">No devices found</string>
-    <string name="title_paired_devices">Paired Devices</string>
-    <string name="title_other_devices">Other Available Devices</string>
-    <string name="button_scan">Scan for devices</string>
+    <string name="scanning">جستجو برای دستگاه ها</string>
+    <string name="select_device">انتخاب بلوتوث برای اتصال</string>
+    <string name="none_paired">به دستگاهی متصل نشده اید</string>
+    <string name="none_found">هیچ دستگاهی یافت نشد</string>
+    <string name="title_paired_devices">دستگاه های جفت شده</string>
+    <string name="title_other_devices">دستگاه های دیگر</string>
+    <string name="button_scan">جستجو برای دستگاه ها</string>
 
     <!-- Options Menu -->
-    <string name="secure_connect">Connect a device - Secure</string>
-    <string name="insecure_connect">Connect a device - Insecure</string>
-    <string name="discoverable">Make discoverable</string>
+    <string name="secure_connect">اتصال به دستگاه - امن</string>
+    <string name="insecure_connect">اتصال به دستگاه غیر امن</string>
+    <string name="discoverable">فعال کردن ردیابی دستگاه توسط دیگر بلوتوث ها</string>
 
 </resources>
